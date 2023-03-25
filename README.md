@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsmks
 - 👀 I’m interested in GAMING
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON & JAVA
 - 💞️ I’m looking to collaborate on PYGAMING
 - 📫 How to reach me IG:@SOHAILSHAIK2911
 
