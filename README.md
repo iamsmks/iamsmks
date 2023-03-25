@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsmks
+- 👋 Hi, I’m Sohail Shaik
 - 👀 I’m interested in GAMING
 - 🌱 I’m currently learning PYTHON & JAVA
 - 💞️ I’m looking to collaborate on PYGAMING
