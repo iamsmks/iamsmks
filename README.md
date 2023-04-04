@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sohail Shaik
-- 👀 I’m interested in GAMING
-- 🌱 I’m currently learning PYTHON & JAVA
-- 💞️ I’m looking to collaborate on PYGAMING
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning PYTHON || Django || JAVA 
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me IG:@SOHAILSHAIK2911
 
 <!---
